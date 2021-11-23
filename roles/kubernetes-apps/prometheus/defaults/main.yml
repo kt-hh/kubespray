@@ -40,7 +40,3 @@ prometheus_pvc: "10Gi"
 kube_state_metrics_image_repo: "{{ quay_image_repo }}/coreos/kube-state-metrics"
 kube_state_metrics_image_tag: "v1.8.0"
 master_ip: {}
-
-
- 
-                          
